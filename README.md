@@ -1,2 +1,2 @@
 # hands-on-data-science-problems
-A hands on data science problems with explanation 
+This repo contains the notebook and the slides used for the Muslamic Makers' Digital Careers Kickstarter programme.and
